@@ -1,4 +1,4 @@
-# Repository of Pattern datasets #
+# Analysis of musical patterns (JMM submission) #
 
 This repository contains the analysis of musical patterns gathered with the PAF and the ANOMIC annotation tools, as well as patterns discovered with various SIA-based pattern discovery algorithms. The analysis is split into two sections, the inter-annotator agreement analysis and the feature-based analysis. The inter-agreement analysis is based on the below agreement matrices between annotators of all datasets. 
 Meanwhile the feature-based analysis results consist of t-test and KS-test results between the feature distributions of the aforementioned datasets, and boxplot visualisations of these distributions.

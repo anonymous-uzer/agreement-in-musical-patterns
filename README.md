@@ -46,11 +46,13 @@ Occurrences refers to the number of times that a pattern $P$ occurs in a music e
 
 ## Coverage 
 The coverage of a pattern $P$ is the number of notes in the dataset $D$ that are members of occurrences of the pattern $P$ \cite{meredith2003algorithms}.
+
 ![](/comparison_figures/boxplot_figures/coverage.png)
 
 ## Compression ratio 
 Compression ratio is the amount of compression that can be achieved by representing the set of
 points covered by all occurrences of the pattern by specifying simply one occurrence of the pattern and all the vectors by which the pattern can be translated \cite{meredith2003algorithms}.
+
 ![](/comparison_figures/boxplot_figures/compression_ratio.png)
 
 ## Three Cs

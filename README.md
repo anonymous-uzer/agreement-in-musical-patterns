@@ -232,6 +232,6 @@ This feature represents the total ratio of unique notes in a pattern without cou
 
 # Feature Correlation Analysis
 
-![](/comparison_tables/correlation_PAF.png)
+![](/comparison_tables/correlation_PAF.PNG)
 
-![](/comparison_tables/correlation_ANOMIC.png)
+![](/comparison_tables/correlation_ANOMIC.PNG)
